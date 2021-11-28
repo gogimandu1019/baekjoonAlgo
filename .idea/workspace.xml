@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="1065&#10;https://career-gogimandu.tistory.com/52" />
+    <list default="true" id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="dd">
+      <change afterPath="$PROJECT_DIR$/baekjoonAlgo/src/Main/baekjoon4673.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../springproject" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +70,7 @@
       <workItem from="1636897050700" duration="7000" />
       <workItem from="1636900971626" duration="7000" />
       <workItem from="1637389418615" duration="4129000" />
-      <workItem from="1638095358127" duration="4956000" />
+      <workItem from="1638095358127" duration="5595000" />
     </task>
     <task id="LOCAL-00001" summary="1712번, 2869번&#10;&#10;손익분기점문제&#10;달팽이문제">
       <created>1638099546113</created>
@@ -118,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638101896825</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dd">
+      <created>1638102327603</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638102327603</updated>
+    </task>
+    <task id="LOCAL-00009" summary="dd">
+      <created>1638102502611</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638102502612</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,12 +177,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/studyingAlgo" />
+    </ignored-roots>
     <MESSAGE value="1193" />
     <MESSAGE value="1712번, 2869번&#10;&#10;손익분기점문제&#10;달팽이문제" />
     <MESSAGE value="1316&#10;https://career-gogimandu.tistory.com/57" />
     <MESSAGE value="2941&#10;https://career-gogimandu.tistory.com/55" />
     <MESSAGE value="1065&#10;https://career-gogimandu.tistory.com/52" />
-    <option name="LAST_COMMIT_MESSAGE" value="1065&#10;https://career-gogimandu.tistory.com/52" />
+    <MESSAGE value="dd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
