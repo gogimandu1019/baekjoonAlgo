@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="1316&#10;https://career-gogimandu.tistory.com/57">
+      <change beforePath="$PROJECT_DIR$/baekjoonAlgo/baekjoon1193.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoonAlgo/baekjoon1712.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoonAlgo/baekjoon2292.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoonAlgo/baekjoon2869.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/baekjoonAlgo" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="20ZnMW9crpbpCDwfI0RBiWwzVRf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springproject" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ginny\OneDrive\Documents\BOJ\baekjoonAlgo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="baekjoon1712" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.baekjoon1712" />
+      <module name="BOJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.baekjoon1712" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="" />
+      <created>1636260931895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636260931895</updated>
+      <workItem from="1636260934828" duration="6467000" />
+      <workItem from="1636459488275" duration="4591000" />
+      <workItem from="1636872568362" duration="961000" />
+      <workItem from="1636897050700" duration="7000" />
+      <workItem from="1636900971626" duration="7000" />
+      <workItem from="1637389418615" duration="4129000" />
+      <workItem from="1638095358127" duration="4120000" />
+    </task>
+    <task id="LOCAL-00001" summary="1712번, 2869번&#10;&#10;손익분기점문제&#10;달팽이문제">
+      <created>1638099546113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638099546113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1316&#10;https://career-gogimandu.tistory.com/57">
+      <created>1638100399317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638100399317</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1316&#10;https://career-gogimandu.tistory.com/57">
+      <created>1638100506937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638100506937</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1316&#10;https://career-gogimandu.tistory.com/57">
+      <created>1638100547039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638100547039</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1193" />
+    <MESSAGE value="1712번, 2869번&#10;&#10;손익분기점문제&#10;달팽이문제" />
+    <MESSAGE value="1316&#10;https://career-gogimandu.tistory.com/57" />
+    <option name="LAST_COMMIT_MESSAGE" value="1316&#10;https://career-gogimandu.tistory.com/57" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
