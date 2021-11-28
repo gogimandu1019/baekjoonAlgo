@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="2941&#10;https://career-gogimandu.tistory.com/55">
-      <change afterPath="$PROJECT_DIR$/baekjoonAlgo/src/Main/baekjoon1065.java" afterDir="false" />
-    </list>
+    <list default="true" id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="1065&#10;https://career-gogimandu.tistory.com/52" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,7 @@
       <workItem from="1636897050700" duration="7000" />
       <workItem from="1636900971626" duration="7000" />
       <workItem from="1637389418615" duration="4129000" />
-      <workItem from="1638095358127" duration="4519000" />
+      <workItem from="1638095358127" duration="4956000" />
     </task>
     <task id="LOCAL-00001" summary="1712번, 2869번&#10;&#10;손익분기점문제&#10;달팽이문제">
       <created>1638099546113</created>
@@ -113,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638101721322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1065&#10;https://career-gogimandu.tistory.com/52">
+      <created>1638101896825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638101896825</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +164,8 @@
     <MESSAGE value="1712번, 2869번&#10;&#10;손익분기점문제&#10;달팽이문제" />
     <MESSAGE value="1316&#10;https://career-gogimandu.tistory.com/57" />
     <MESSAGE value="2941&#10;https://career-gogimandu.tistory.com/55" />
-    <option name="LAST_COMMIT_MESSAGE" value="2941&#10;https://career-gogimandu.tistory.com/55" />
+    <MESSAGE value="1065&#10;https://career-gogimandu.tistory.com/52" />
+    <option name="LAST_COMMIT_MESSAGE" value="1065&#10;https://career-gogimandu.tistory.com/52" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
