@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="2775&#10;https://career-gogimandu.tistory.com/69">
-      <change afterPath="$PROJECT_DIR$/baekjoonAlgo/src/Main/baekjoon1011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoonAlgo/src/Main/baekjoon2839.java" afterDir="false" />
+    <list default="true" id="57082c4d-f3c7-4993-8f62-702b9cbb3a07" name="Changes" comment="20211212">
+      <change afterPath="$PROJECT_DIR$/baekjoonAlgo/src/Main/baekjoon1978.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
   </component>
   <component name="RunManager">
     <configuration name="baekjoon" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main.baekjoon1011" />
+      <option name="MAIN_CLASS_NAME" value="Main.baekjoon1978" />
       <module name="BOJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,7 +72,8 @@
       <workItem from="1636900971626" duration="7000" />
       <workItem from="1637389418615" duration="4129000" />
       <workItem from="1638095358127" duration="9529000" />
-      <workItem from="1639211991999" duration="2949000" />
+      <workItem from="1639211991999" duration="3016000" />
+      <workItem from="1639925936232" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="1712번, 2869번&#10;&#10;손익분기점문제&#10;달팽이문제">
       <created>1638099546113</created>
@@ -173,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639212187917</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20211212">
+      <created>1639315583283</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639315583283</updated>
+    </task>
+    <task id="LOCAL-00016" summary="20211212">
+      <created>1639315611963</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639315611963</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +243,8 @@
     <MESSAGE value="8958&#10;https://career-gogimandu.tistory.com/50" />
     <MESSAGE value="10250&#10;https://career-gogimandu.tistory.com/66 20211206 공개예정" />
     <MESSAGE value="2775&#10;https://career-gogimandu.tistory.com/69" />
-    <option name="LAST_COMMIT_MESSAGE" value="2775&#10;https://career-gogimandu.tistory.com/69" />
+    <MESSAGE value="20211212" />
+    <option name="LAST_COMMIT_MESSAGE" value="20211212" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
